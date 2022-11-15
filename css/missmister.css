@@ -1,0 +1,52 @@
+#missmistersection{
+    height: 100%;
+    width: 100%;
+}
+
+.text_principal{
+    font-family: "Rockville Solid Regular";
+    margin-left: 10%;
+}
+
+.text-principal-an{
+    font-family: "Rockville Solid Regular";
+    margin-left: 31.25rem;
+}
+
+/* .centrat{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+} */
+
+
+@media only screen and (min-width: 800px) {
+
+    /* .div-cu-texte{
+        
+    } */
+    
+}
+
+@media only screen and (max-width: 600px) {
+
+    .text_principal{
+        font-size: 1.25rem;
+    }
+
+    .text-principal-an{
+        font-size: 2.5rem;
+        margin-left: 8.75rem;
+    }
+
+    /* .centrat{
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+    } */
+
+    #missmistersection{
+        height: 62.5rem;
+    }
+
+}

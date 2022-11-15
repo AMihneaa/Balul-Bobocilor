@@ -1,0 +1,23 @@
+.blog-principal{
+    text-align: center;
+    padding:  3rem 10rem;
+}
+.blog-container{
+    position: relative;
+}
+
+.blog-container-div{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.container-secondary{
+    padding: 5rem;
+}
+
+.text-principal{
+    font-family: "Rajdhani", sans-serif;
+}

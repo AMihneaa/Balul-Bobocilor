@@ -1,0 +1,39 @@
+.blog-principal{
+    text-align: center;
+    padding:  3rem 10rem;
+}
+.blog-container{
+    position: relative;
+}
+
+.blog-container-div{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.container-secondary{
+    padding: 5rem;
+}
+
+.text-principal{
+    font-family: "Rajdhani", sans-serif;
+}
+
+@media screen and (max-width: 867px) {
+    .blog-principal{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .container-secondary{
+        width: 100%;
+    }
+    
+    .text-bbetti-principa{
+        
+    }
+    
+}
